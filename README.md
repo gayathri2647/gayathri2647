@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently pursuing data science and analytics .  <br>🤝 I’m looking to collaborate on projects related to data analytics  <br>🤔 I’m looking for help with building backend logic and advanced JavaScript features for interactive web apps.  <br>🌱 I’m currently learning deepening my skills in data analytics through an internship.  <br>💬 Ask me about how to turn a simple idea into a meaningful project, or how I manage coding with creativity.  <br>⚡ Fun fact: My code runs better at midnight, just like my brain.<br>
+🔭 I’m currently pursuing data science and analytics .   <br>💬 Ask me about how to turn a simple idea into a meaningful project, or how I manage coding with creativity.  <br>⚡ Fun fact: My code runs better at midnight, just like my brain.<br>
 
 
 ## 🌐 Socials:
